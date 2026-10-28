@@ -40,4 +40,3 @@ https://campus-dish.vercel.app/
 
 - GitHub: [raushan-797](https://github.com/raushan-797)
 - Project: [Campus-Dish](https://github.com/raushan-797/Campus-Dish)
-- Live Website: [Campus-Dish](https://campusdish.in/)
