@@ -1,33 +1,9 @@
 
-/* Light mode */
-/* @media (prefers-color-scheme: light) {
-    body {
-        background-color: white;
-        color: dimgray;
-    }
-
-    .bg-slate-950 {
-        background-color: white !important;
-    }
-
-    .bg-slate-900 {
-        background-color: white !important;
-    }
-
-    .bg-slate-800 {
-        background-color: whitesmoke !important;
-    }
-    .bg-slate-700 {
-    background-color: lightgray !important;
+/* Button hover effect */
+button {
+    transition: 0.3s;
 }
 
-    .text-white,
-    .text-slate-100 {
-        color: dimgray !important;
-    }
-
-    .text-slate-300,
-    .text-slate-400 {
-        color: slategray !important;
-    }
-} */
+button:hover {
+    opacity: 0.8;
+}
